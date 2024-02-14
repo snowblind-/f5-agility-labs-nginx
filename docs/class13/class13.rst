@@ -25,7 +25,7 @@ You will launch a simulated attack on a “standard” or default policy NAP & o
 
 Module 3: 
 
-After using Module 2 above, we will dive deeper into some DoS attacks against NGNIX NAP
+After using Module 2 above, we will dig in to tools to automate changes to the environment.
 
 .. toctree::
    :maxdepth: 1

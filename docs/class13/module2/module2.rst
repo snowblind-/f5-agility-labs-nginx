@@ -178,7 +178,7 @@ Now, let's try to send a malicious request to the application:
 
    .. code:: bash
 
-      curl "http://nap-ingress2.f5k8s.netindex.php?password=0%22%20or%201%3D1%20%22%0A"
+      curl "http://nap-ingress2.f5k8s.net/index.php?password=0%22%20or%201%3D1%20%22%0A"
 
 #.  SQL Injection
 
